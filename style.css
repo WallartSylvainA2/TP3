@@ -2,7 +2,11 @@ body
 {
 	padding: 0;
 	margin: 0 ;
+<<<<<<< HEAD
+	background-image: url('western.jpg');
+=======
 	background-image: url('western_cowboy_at_sunset-wide.jpg');
+>>>>>>> fdcf3fe65d999a6abb82f0c9431eb7ad233677ac
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover ;
@@ -22,7 +26,11 @@ body
 	padding: 20px;
 	background: #ccc;
 	height:50px;
+<<<<<<< HEAD
+	background-color: #D2691E;
+=======
 	background-image: url('Malaria-Western-01.jpg');
+>>>>>>> fdcf3fe65d999a6abb82f0c9431eb7ad233677ac
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
