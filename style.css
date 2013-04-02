@@ -2,7 +2,7 @@ body
 {
 	padding: 0;
 	margin: 0 ;
-	background-image: url('ronds.jpg');
+	background-image: url('western.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover ;
@@ -22,7 +22,7 @@ body
 	padding: 20px;
 	background: #ccc;
 	height:50px;
-	background-image: url('haut.jpg');
+	background-color: #D2691E;
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
